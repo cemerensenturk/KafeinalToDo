@@ -307,7 +307,7 @@ form {
 @media only screen and (max-width: 400px) {
   .todo-list{
     max-width: 90%;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
   }
   
 
